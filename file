@@ -3,3 +3,6 @@ cat /etc/group
 date
 cal
 time
+cat /etc/os-release
+whoami
+pwd
