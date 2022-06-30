@@ -6,3 +6,5 @@ time
 cat /etc/os-release
 whoami
 pwd
+systemctl status jenkins
+systemctl status docker
